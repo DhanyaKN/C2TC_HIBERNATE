@@ -12,11 +12,11 @@ public class Client {
 		Student student1=new Student();
 		
 		//Insert operation
-		/*student1.setStudent_id(3);
+		student1.setStudent_id(6);
         student1.setName("Dhanya KN");
-        studentService.addStudent(student1);*/
+        studentService.addStudent(student1);
         
-        //Retrieval operation
+        /*//Retrieval operation
         Student student2=studentService.findStudentById(102);
         System.out.println(student2);
         
@@ -24,6 +24,6 @@ public class Client {
         student2.setName("M S Dhoni");
         studentService.updateStudent(student2);
         
-        studentService.removeStudent(student2);
+        studentService.removeStudent(student2);*/
 	}
 }
