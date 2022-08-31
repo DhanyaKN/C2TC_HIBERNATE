@@ -12,8 +12,8 @@ public class Client {
 		Student student1=new Student();
 		
 		//Insert operation
-		/*student1.setStudent_id(103);
-        student1.setName("Bheemaraya");
+		/*student1.setStudent_id(3);
+        student1.setName("Dhanya KN");
         studentService.addStudent(student1);*/
         
         //Retrieval operation
